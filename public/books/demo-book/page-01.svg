@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1400">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset=".55" stop-color="#5b3b27"/><stop offset="1" stop-color="#c99b63"/></linearGradient></defs>
+<rect width="1000" height="1400" fill="#f4efe7"/><rect width="1000" height="520" fill="url(#g)"/>
+<circle cx="780" cy="250" r="190" fill="#fff" opacity=".08"/><circle cx="690" cy="360" r="110" fill="#fff" opacity=".08"/>
+<text x="70" y="90" fill="#fff" font-family="Arial" font-size="25" letter-spacing="7">CONCEPT ART • 2026</text>
+<text x="70" y="285" fill="#fff" font-family="Arial" font-size="68" font-weight="700">CONCEPT ART</text>
+<text x="70" y="360" fill="#fff" font-family="Arial" font-size="34">DIPLOMA BOOKLET</text>
+<line x1="70" y1="410" x2="430" y2="410" stroke="#fff" opacity=".6"/>
+<text x="70" y="635" fill="#191919" font-family="Arial" font-size="37" font-weight="700">A visual journey through imagination</text>
+<text x="70" y="710" fill="#555" font-family="Arial" font-size="24">SAMPLE PAGE • DIGITAL BOOKLET VIEWER</text>
+<rect x="70" y="790" width="860" height="4" fill="#b88a55"/>
+<text x="70" y="875" fill="#222" font-family="Arial" font-size="24">Drag the page corner and experience the physical page turn.</text>
+<text x="70" y="1280" fill="#777" font-family="Arial" font-size="22">DIGITAL BOOKLET</text><text x="850" y="1280" fill="#777" font-family="Arial" font-size="22">01</text>
+</svg>
